@@ -1,5 +1,4 @@
-import {generateGrid} from "../game";
-import {expect, it} from "@jest/globals";
+import {TykTacToe} from "../game";
 
 
 it('creates grid', () => {
